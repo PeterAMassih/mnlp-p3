@@ -1,0 +1,13 @@
+{
+  "team_name": "4-pack",
+  "task_type": "causal_lm",
+  "policy_acc": 0.4488888888888889,
+  "results": {
+    "D": 106,
+    "A": 82,
+    "B": 121,
+    "C": 128,
+    "Not found": 11,
+    "I": 2
+  }
+}

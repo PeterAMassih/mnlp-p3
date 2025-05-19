@@ -1,0 +1,15 @@
+{
+  "team_name": "4-pack",
+  "task_type": "causal_lm",
+  "orig_model_size": 32456597504,
+  "quantized_model_size": 9282535424,
+  "quantized": true,
+  "quantized_policy_acc": 0.4488888888888889,
+  "quantized_results": {
+    "D": 118,
+    "A": 90,
+    "B": 110,
+    "C": 127,
+    "Not found": 5
+  }
+}
